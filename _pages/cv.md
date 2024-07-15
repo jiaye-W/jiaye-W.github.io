@@ -17,26 +17,29 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2023 - Feb 2024: Research and Development Internship (Part-time)
+  * Rollomatic SA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2023 - Aug 2023: Research and Development Internship (Full-time)
+  * Rollomatic SA
+
+* Jul 2022 - Aug 2022: Summer Research Internship
+  * EPFL
+  * Supervisor: Prof. Fritz Eisenbrand
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Native: Chinese (mandarin)
+  * Fluent: English
+  * Basic: French
+* Programming languages
+  * Proficient: Python, C#, Latex
+  * Intermediate: C++, Matlab
+  * Basic: Julia, Javascript
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -46,14 +49,14 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
