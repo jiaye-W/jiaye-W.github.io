@@ -13,19 +13,18 @@ Education
 ======
 * Ph.D in Mathematics, EPFL, 2028 (expected)
 * M.S. in Applied Mathematics, EPFL, 2024
-* B.S. in Mathematics, CUHK-Shenzhen, 2021
+* B.S. in Mathematics and Applied Mathematics, CUHK-Shenzhen, 2021
 
 Work experience
 ======
 * Sep 2023 - Feb 2024: Research and Development Internship (Part-time)
-  * Rollomatic SA
+  * Rollomatic SA, continuation of the previous project
 
 * Feb 2023 - Aug 2023: Research and Development Internship (Full-time)
-  * Rollomatic SA
+  * Rollomatic SA, research and implementation of numerical methods in differential geometry for manufacturing
 
 * Jul 2022 - Aug 2022: Summer Research Internship
-  * EPFL
-  * Supervisor: Prof. Fritz Eisenbrand
+  * EPFL, supervised by Prof. Fritz Eisenbrand
 
   
 Skills
