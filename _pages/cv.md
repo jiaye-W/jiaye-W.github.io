@@ -26,6 +26,10 @@ Work experience
 * Jul 2022 - Aug 2022: Summer Research Internship
   * EPFL, supervised by Prof. Fritz Eisenbrand
 
+Teaching experience
+======
+* Spring 2023: MATH-261 Discrete optimization, EPFL
+* Fall 2022: MATH-111(en) Linear algebra, EPFL
   
 Skills
 ======
