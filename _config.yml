@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiaye Wei"
-  pronouns         : "he/him"  
+  # pronouns         : "he/him"  
   bio              : "PhD Student in Mathematics"
   location         : "Écublens, Switzerland"
   employer         : "EPFL"
