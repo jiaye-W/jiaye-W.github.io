@@ -21,7 +21,7 @@ repository               : "jiaye-W/jiaye-W.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jiaye Wei"
   # pronouns         : "he/him"  
   bio              : "PhD Student in Mathematics"
