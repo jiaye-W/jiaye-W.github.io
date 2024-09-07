@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* Sep 2024 - Aug 2028 (expected): Doctoral Assistant
+  * EPFL, Chair of Discrete Optimization
+
 * Sep 2023 - Feb 2024: Research and Development Internship (Part-time)
   * Rollomatic SA, continuation of the previous project
 
@@ -28,6 +31,7 @@ Work experience
 
 Teaching experience
 ======
+* Fall 2024: MATH-360 Graph Theory, EPFL
 * Spring 2023: MATH-261 Discrete optimization, EPFL
 * Fall 2022: MATH-111(en) Linear algebra, EPFL
   
@@ -39,8 +43,8 @@ Skills
   * Basic: French
 * Programming languages
   * Proficient: Python, C#, Latex
-  * Intermediate: C++, Matlab
-  * Basic: Julia, Javascript
+  * Intermediate: C++
+  * Basic: Matlab, Julia, JavaScript
 
 <!-- Publications
 ======
