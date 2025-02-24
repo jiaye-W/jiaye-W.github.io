@@ -32,8 +32,8 @@ Work experience
 Teaching experience
 ======
 * Teaching assistants during Ph.D.
-  * Spring 2025: MATH-261 Discrete Optimization, EPFL
-  * Fall 2024: MATH-360 Graph Theory, EPFL
+  * Spring 2025: MATH-261 Discrete optimization, EPFL
+  * Fall 2024: MATH-360 Graph theory, EPFL
 
 * Student assistants during M.S.
   * Spring 2023: MATH-261 Discrete optimization, EPFL
