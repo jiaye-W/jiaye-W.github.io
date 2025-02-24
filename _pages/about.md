@@ -7,5 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in mathematics at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Fritz Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand?lang=en).
+Hello. I am currently a first-year PhD student in Mathematics at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Fritz Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand?lang=en).
+
 My research interests are combinatorial optimization and algorithms. 
