@@ -11,7 +11,7 @@ Under constructions
 
 ## Thesis
 
-[Robust Recoverable Matching Problems](https://zenodo.org/records/15118302). Master's thesis, École Polytechnique Fédérale de Lausanne (EPFL), 2024.
+[Robust Recoverable Matching Problems](https://zenodo.org/records/15118302). Master thesis, École Polytechnique Fédérale de Lausanne (EPFL), 2024.
 
 <!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
