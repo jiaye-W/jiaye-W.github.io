@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Jiaye Wei"
   # pronouns         : "he/him"  
-  bio              : "PhD Student in Mathematics"
+  bio              : "PhD student in Mathematics"
   location         : "Écublens, Switzerland"
-  employer         : "EPFL"
+  # employer         : "EPFL"
   uri              : # URL
   email            : "jiaye.wei@epfl.ch" 
 
