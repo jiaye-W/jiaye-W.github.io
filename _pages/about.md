@@ -12,7 +12,7 @@ Hello. I am currently a first-year PhD student at the [Chair of Discrete Optimiz
 My research interests are combinatorial optimization and approximation algorithms. 
 Recently I have been working on the topics extended from my master thesis, which includes the robustness of matchings, submodular optimization, and stable matchings.
 
-### Events
+## Events
 
 * Jan 2025. Winter school: [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/). Zinal, Switzerland.
 
