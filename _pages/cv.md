@@ -9,14 +9,14 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Education
-======
+## Education
+
 * Ph.D in Mathematics, EPFL, 2028 (expected)
 * M.S. in Applied Mathematics, EPFL, 2024
 * B.S. in Mathematics and Applied Mathematics, CUHK-Shenzhen, 2021
 
-Work experience
-======
+## Work experience
+
 * Sep 2024 - Aug 2028 (expected): Doctoral Assistant
   * EPFL, Chair of Discrete Optimization
 
@@ -29,8 +29,8 @@ Work experience
 * Jul 2022 - Aug 2022: Summer Research Internship
   * EPFL, supervised by Prof. Fritz Eisenbrand
   
-Skills
-======
+## Skills
+
 * Languages
   * Native: Chinese (mandarin)
   * Fluent: English

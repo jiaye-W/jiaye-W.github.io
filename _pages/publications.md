@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-# Publications
+## Publications
 
 Under constructions
 
-# Thesis
+## Thesis
 
 [Robust Recoverable Matching Problems](https://zenodo.org/records/15118302). Master's thesis, École Polytechnique Fédérale de Lausanne (EPFL), 2024.
 
