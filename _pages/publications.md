@@ -7,11 +7,12 @@ author_profile: true
 
 ## Publications
 
-Under constructions
+- **Second Price Matching with Complete Allocation and Degree Constraints,**
+with Rom Pinchasi, Neta Singer, and Lukas Vogl. Submitted, 2025. [arXiv]
 
 ## Thesis
 
-**Robust Recoverable Matching Problems.** 
+- **Robust Recoverable Matching Problems.**
 Master thesis, École Polytechnique Fédérale de Lausanne (EPFL), 2024. [[thesis](https://zenodo.org/records/15118302)]
 
 <!-- {% if site.author.googlescholar %}
