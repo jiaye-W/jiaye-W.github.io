@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
-
 Hello. I am a first-year PhD student at the [Chair of Discrete Optimization](https://www.epfl.ch/labs/disopt/) within the [Institute of Mathematics](https://www.epfl.ch/schools/sb/research/math/) at [EPFL](https://www.epfl.ch/en/), supervised by [Fritz Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand?lang=en).
 
 My research interests are combinatorial optimization and approximation algorithms. 
