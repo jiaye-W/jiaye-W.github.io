@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Academic Service"
-permalink: /teaching/
+permalink: /academic-service/
 author_profile: true
 ---
 
-<!-- Teaching experience
+<!-- Academic Service: Teaching, supervising, and reviewing.
 ====== -->
 
 ## Teaching
