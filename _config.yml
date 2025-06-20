@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jiaye Wei"
 title_separator          : "-"
-name                     : &name "Jiaye Wei / 魏家晔"
+name                     : &name "Jiaye Wei"
 description              : &description "PhD Student in Mathematics"
 url                      : https://jiaye-W.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "jiaye-W/jiaye-W.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jiaye Wei"
+  name             : "Jiaye Wei / 魏家晔"
   # pronouns         : "he/him"  
   bio              : "PhD student in Mathematics"
   location         : "Écublens, Switzerland"
