@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 - **Second Price Matching with Complete Allocation and Degree Constraints,**
-with Rom Pinchasi, Neta Singer, and Lukas Vogl. Submitted, 2025. [[arXiv](https://arxiv.org/abs/2505.06005)]
+with Rom Pinchasi, Neta Singer, and Lukas Vogl. Preprint, 2025. [[arXiv](https://arxiv.org/abs/2505.06005)]
 
 ## Thesis
 
