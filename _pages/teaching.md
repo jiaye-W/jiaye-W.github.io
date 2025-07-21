@@ -11,7 +11,7 @@ author_profile: true
 ## Teaching
 
 ### Teaching assistants (during Ph.D.)
-  * Fall 2025: TBD
+  * Fall 2025: MATH-101(g) Analyse I, EPFL
   * Summer 2025: MATH-702 Stable matchings and lattices (block course), EPFL
   * Spring 2025: MATH-261 Discrete optimization, EPFL
   * Fall 2024: MATH-360 Graph theory, EPFL
