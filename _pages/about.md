@@ -14,8 +14,14 @@ Recently I have been working on the topics extended from my master thesis, which
 
 ## Events
 
-* Jan 2025. Winter school: [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/). Zinal, Switzerland.
+### Coming
+* September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](). Institut d'Etudes Scientifiques de Cargèse, Corsica, France.
 
-* Oct 2024 - Nov 2024. One-month research visit at the University of Washington, hosted by [Thomas Rothvoss](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
+* August 27, 2025. PhD Candidacy Exam. 
+
+### Past
+* January 26-31, 2025. Winter school: [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/). Zinal, Switzerland.
+
+* October 2024 - November 2024. One-month research visit at the University of Washington, hosted by [Thomas Rothvoss](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
 
 <!-- * Jul 2022. Summer school: [Modern Trends in Combinatorial Optimization](https://archiveweb.epfl.ch/combo2022.epfl.ch/index.html%3Fp=8.html). Lausanne, Switzerland. -->
