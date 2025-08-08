@@ -10,12 +10,12 @@ redirect_from:
 Hello. I am a first-year PhD student at the [Chair of Discrete Optimization](https://www.epfl.ch/labs/disopt/) within the [Institute of Mathematics](https://www.epfl.ch/schools/sb/research/math/) at [EPFL](https://www.epfl.ch/en/), supervised by [Fritz Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand?lang=en).
 
 My research interests are combinatorial optimization and approximation algorithms. 
-Recently I have been working on the topics extended from my master thesis, which includes the robustness of matchings, submodular optimization, and stable matchings.
+Recently I have been working on submodular maximization and stable matchings. 
 
 ## Events
 
 ### Coming
-* September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](). Institut d'Etudes Scientifiques de Cargèse, Corsica, France.
+* September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/). Institut d'Etudes Scientifiques de Cargèse, Corsica, France.
 
 * August 27, 2025. PhD Candidacy Exam. 
 
