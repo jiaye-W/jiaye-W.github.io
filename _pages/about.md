@@ -14,12 +14,12 @@ Recently I have been working on submodular maximization and stable matchings.
 
 ## Events
 
-### Coming
-* September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/). Institut d'Etudes Scientifiques de Cargèse, Corsica, France.
+<!-- ### Coming -->
+<!-- * September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/). Institut d'Etudes Scientifiques de Cargèse, Corsica, France.
 
-* August 27, 2025. PhD Candidacy Exam. 
+* August 27, 2025. PhD Candidacy Exam.  -->
 
-### Past
+<!-- ### Past -->
 * January 26-31, 2025. Winter school: [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/). Zinal, Switzerland.
 
 * October 2024 - November 2024. One-month research visit at the University of Washington, hosted by [Thomas Rothvoss](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
