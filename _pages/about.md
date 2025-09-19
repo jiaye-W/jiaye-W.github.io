@@ -14,7 +14,7 @@ Recently I have been working on submodular maximization and stable matchings.
 
 ## Events
 
-<!-- * September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/). Institut d'Etudes Scientifiques de Cargèse, Corsica, France. -->
+* September 15-19, 2025. [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/). Institut d'Etudes Scientifiques de Cargèse, Corsica, France.
 
 * August 26, 2025. I passed my PhD candidacy exam.
 
