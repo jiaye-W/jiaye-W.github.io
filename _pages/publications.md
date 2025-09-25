@@ -13,7 +13,7 @@ with Rom Pinchasi, Neta Singer, and Lukas Vogl. Preprint, 2025. [[arXiv](https:/
 ## Talks
 
 - *"Robustness of Matching: Backup Nodes Problem"*, 
-talk at [14th Cargèse Workshop on Combinatorial Optimization.](https://www.cargese.org/2025/) September 19, 2025. 
+talk at [14th Cargèse Workshop on Combinatorial Optimization.](https://www.cargese.org/2025/) September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
 
 ## Thesis
 
