@@ -12,8 +12,8 @@ with Rom Pinchasi, Neta Singer, and Lukas Vogl. Preprint, 2025. [[arXiv](https:/
 
 ## Talks 
 1. *"Robustness of Matching: Backup Nodes Problem"*
-  - Talk at [EPFL Theory Coffee](https://theory.epfl.ch/coffee/), October 20, 2025.
-  - Talk at [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/), September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
+- Talk at [EPFL Theory Coffee](https://theory.epfl.ch/coffee/), October 20, 2025.
+- Talk at [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/), September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
 
 ## Thesis
 
