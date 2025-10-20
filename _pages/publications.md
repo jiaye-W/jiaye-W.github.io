@@ -10,10 +10,10 @@ author_profile: true
 - *Second Price Matching with Complete Allocation and Degree Constraints*,
 with Rom Pinchasi, Neta Singer, and Lukas Vogl. Preprint, 2025. [[arXiv](https://arxiv.org/abs/2505.06005)]
 
-## Talks
-
-- *"Robustness of Matching: Backup Nodes Problem"*, 
-talk at [14th Cargèse Workshop on Combinatorial Optimization.](https://www.cargese.org/2025/) September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
+## Talks 
+1. *"Robustness of Matching: Backup Nodes Problem"*
+  - Talk at [EPFL Theory Coffee](https://theory.epfl.ch/coffee/), October 20, 2025.
+  - Talk at [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/), September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
 
 ## Thesis
 
