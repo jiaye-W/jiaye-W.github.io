@@ -22,8 +22,8 @@ author_profile: true
   * Fall 2022: MATH-111(en) Linear algebra, EPFL
 
 ## Supervising
-- Pavel Dedek (EPFL, bachelor in Mathematics): Bachelor Thesis, Spring 2026.
-- Cassandre Renaud (EPFL, master in Applied Mathematics): Master Thesis, Fall 2025.
+- Pavel Dedek (EPFL, bachelor in Mathematics): Bachelor thesis, Spring 2026.
+- Cassandre Renaud (EPFL, master in Applied Mathematics): Master thesis, Fall 2025.
 
 ## Reviewing
 IPCO 2025
