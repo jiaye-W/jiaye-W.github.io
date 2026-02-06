@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Service"
-permalink: /academic-service/
+permalink: /service/
 author_profile: true
 ---
 
@@ -12,7 +12,7 @@ author_profile: true
 
 | Semester | Course | Role |
 |------------|------------------------------------------------------|-------------|
-| Spring 2026 | MATH-261 Discrete optimization, EPFL | Head teaching assistant |
+| Spring 2026 | MATH-261 Discrete optimization, EPFL | Teaching assistant |
 | Fall 2025 | MATH-101(g) Analyse I, EPFL | Teaching assistant |
 | Summer 2025 | MATH-702 Stable matchings and lattices, EPFL | Teaching assistant |
 | Spring 2025 | MATH-261 Discrete optimization, EPFL | Teaching assistant |
@@ -26,4 +26,5 @@ author_profile: true
 - Cassandre Renaud (EPFL, master in Applied Mathematics): Master thesis, Fall 2025.
 
 ## Reviewing
-EC 2026, IPCO 2025
+- **PC Member:** EC 2026
+- **Reviewer:** IPCO 2025
