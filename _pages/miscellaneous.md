@@ -21,9 +21,10 @@ A collection of memorable photos of mine: under constructions. -->
 - [Advice for the budding theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/), by Boaz Barak
 
 ### Musics
-- [Rachmaninov Piano Concerto No.2 ](https://www.youtube.com/watch?v=uT_ZhhQeudY) played by Sviatoslav Richter
-- 冀西南林路行, by Omnipotent Youth Society (万能青年旅店)
-- OST of Death Note
+- [Rachmaninov Piano Concerto No.2 ](https://www.youtube.com/watch?v=uT_ZhhQeudY), played by Sviatoslav Richter
+- [市集](https://www.youtube.com/watch?v=LUbg-bwq03E), by 胡偉立 (William Wu Wai-lap)
+- 冀西南林路行, by 万能青年旅店 (Omnipotent Youth Society)
+- OST of Death Note, by Yoshihisa Hirano and Hideki Taniuchi
 
 ### Algorithms
 - Gale-Shapley algorithm
