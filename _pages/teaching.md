@@ -12,7 +12,7 @@ author_profile: true
 
 | Semester | Course | Role |
 |------------|------------------------------------------------------|-------------|
-| Spring 2026 | MATH-261 Discrete optimization, EPFL | Teaching assistant |
+| Spring 2026 | MATH-261 Discrete optimization, EPFL | Main teaching assistant |
 | Fall 2025 | MATH-101(g) Analyse I, EPFL | Teaching assistant |
 | Summer 2025 | MATH-702 Stable matchings and lattices, EPFL | Teaching assistant |
 | Spring 2025 | MATH-261 Discrete optimization, EPFL | Teaching assistant |
