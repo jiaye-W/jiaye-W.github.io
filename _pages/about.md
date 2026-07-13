@@ -20,6 +20,6 @@ Recently I have been working on submodular maximization and stable matchings.
 
 * January 26-31, 2025. Winter school: [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/). Zinal, Switzerland.
 
-* October 2024 - November 2024. One-month research visit at the University of Washington, hosted by [Thomas Rothvoss](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
+* October 2024 - November 2024. Research visit at the University of Washington, hosted by [Thomas Rothvoss](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
 
 <!-- * Jul 2022. Summer school: [Modern Trends in Combinatorial Optimization](https://archiveweb.epfl.ch/combo2022.epfl.ch/index.html%3Fp=8.html). Lausanne, Switzerland. -->

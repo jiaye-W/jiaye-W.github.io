@@ -7,13 +7,16 @@ author_profile: true
 
 ## Publications
 
+- *Polyhedral extended formulations that approximate the Gomory closure for packing problems*, 
+with Friedrich Eisenbrand, Samuel Fiorini, and Lars Rohwedder. In submission, 2026. [[arXiv](https://arxiv.org/abs/2607.09222)]
+
 - *Second Price Matching with Complete Allocation and Degree Constraints*,
 with Rom Pinchasi, Neta Singer, and Lukas Vogl. Preprint, 2025. [[arXiv](https://arxiv.org/abs/2505.06005)]
 
 ## Talks 
-1. *"Robustness of Matching: Backup Nodes Problem"*
-- Talk at [EPFL Theory Coffee](https://theory.epfl.ch/coffee/), October 20, 2025.
-- Talk at [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/), September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
+- *"Robustness of Matching: Backup Nodes Problem"*
+  - Talk at [EPFL Theory Coffee](https://theory.epfl.ch/coffee/), October 20, 2025.
+  - Talk at [14th Cargèse Workshop on Combinatorial Optimization](https://www.cargese.org/2025/), September 19, 2025. [[slides](https://jiaye-W.github.io/files/Cargese_190925.pdf)]
 
 ## Thesis
 
