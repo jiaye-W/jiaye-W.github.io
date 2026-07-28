@@ -7,6 +7,9 @@ author_profile: true
 
 ## Publications
 
+- *On Feige's conjecture*, 
+with Zipei Nie. Preprint, 2026. [[arXiv](https://arxiv.org/abs/2607.24528)]
+
 - *Polyhedral extended formulations that approximate the Gomory closure for packing problems*, 
 with Friedrich Eisenbrand, Samuel Fiorini, and Lars Rohwedder. In submission, 2026. [[arXiv](https://arxiv.org/abs/2607.09222)]
 
