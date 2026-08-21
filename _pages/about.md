@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,4 +17,6 @@ My research lies at the intersection of discrete mathematics and theoretical com
 In particular, I study cutting-plane methods, convex relaxation hierarchies, and extended formulations. 
 I am also interested in stable matchings and submodular maximization.
 
-**E-mail**: `jiaye.wei@epfl.ch`
+## Contact
+
+**Email**: `jiaye.wei@epfl.ch`
