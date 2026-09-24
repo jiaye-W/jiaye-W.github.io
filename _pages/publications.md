@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
+## Papers
+
+- *The Lasserre Rank of the Cropped Hypercube*,
+with Gérard Cornuéjols and Vrishabh Patil. Preprint, 2026. [[arXiv](https://arxiv.org/abs/2609.27748)]
 
 - *On Feige's conjecture*, 
 with Zipei Nie. Preprint, 2026. [[arXiv](https://arxiv.org/abs/2607.24528)]
