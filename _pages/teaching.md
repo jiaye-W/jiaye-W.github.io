@@ -22,8 +22,9 @@ author_profile: true
 
 
 ## Supervising
-- Pavel Dědek (EPFL, bachelor in Mathematics): Bachelor thesis, Spring 2026.
-- Cassandre Renaud (EPFL, master in Applied Mathematics): Master thesis, Fall 2025.
+- Carlos Vallado Krause (EPFL, Master in Computer Science): master semester project, co-supervised with Matteo Russo, Fall 2026. 
+- Pavel Dědek (EPFL, Bachelor in Mathematics): bachelor thesis, Spring 2026.
+- Cassandre Renaud (EPFL, Master in Applied Mathematics): master thesis, Fall 2025.
 
 ## Reviewing
 - **PC Member:** EC 2026
