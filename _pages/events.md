@@ -6,6 +6,8 @@ author_profile: true
 
 ## 2026
 
+* October 2026. I was honored to receive the 2026 Dean’s Award from the School of Basic Sciences of EPFL!
+
 * August 2026 - September 2026. Research visit at Carnegie Mellon University, hosted by [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/). Pittsburgh, PA, USA.
 
 ## 2025
