@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2026
 
-* October 2026. I was honored to receive the 2026 Dean’s Award from the School of Basic Sciences of EPFL!
+* October 2026. I was honored to receive the 2026 Dean’s Award from the School of Basic Sciences of EPFL.
 
 * August 2026 - September 2026. Research visit at Carnegie Mellon University, hosted by [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/). Pittsburgh, PA, USA.
 
@@ -20,7 +20,7 @@ author_profile: true
 
 ## 2024
 
-* October 2024 - November 2024. Research visit at the University of Washington, hosted by [Thomas Rothvoß](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
+* October 2024 - November 2024. Research visit at the University of Washington, hosted by [Thomas Rothvoss](https://sites.math.washington.edu//~rothvoss/). Seattle, WA, USA.
 
 <!-- ## Before PhD
 
