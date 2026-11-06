@@ -7,10 +7,10 @@ author_profile: true
 
 ## Papers
 
-- *The Online Steinitz Problem*, with Matteo Russo. Preprint, 2026. [[arXiv](https://arxiv.org/abs/2610.16715)]
+- *The Online Steinitz Problem*, with Matteo Russo. Submitted, 2026. [[arXiv](https://arxiv.org/abs/2610.16715)]
 
 - *The Lasserre Rank of the Cropped Hypercube*,
-with Gérard Cornuéjols and Vrishabh Patil. Preprint, 2026. [[arXiv](https://arxiv.org/abs/2609.27748)]
+with Gérard Cornuéjols and Vrishabh Patil. Submitted, 2026. [[arXiv](https://arxiv.org/abs/2609.27748)]
 
 - *On Feige's conjecture*, 
 with Zipei Nie. Manuscript, 2026. [[arXiv](https://arxiv.org/abs/2607.24528)]
